@@ -4,7 +4,7 @@ import formidable from 'formidable';
 import fs from 'fs';
 import { parse } from 'csv-parse';
 import CryptoJS from 'crypto-js';
-import { authenticate } from '../../../utils.auth';
+import { authenticate } from '../../../utils/auth';
 
 export const config = {
   api: { bodyParser: false }
