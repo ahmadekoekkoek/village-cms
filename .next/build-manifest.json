@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/qA0GJo-uJbmkQS-P5mnh-/_buildManifest.js",
-    "static/qA0GJo-uJbmkQS-P5mnh-/_ssgManifest.js"
+    "static/4TQ8ynbJ3fLPOMw-I0rJ7/_buildManifest.js",
+    "static/4TQ8ynbJ3fLPOMw-I0rJ7/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "rootMainFilesTree": {},
@@ -42,8 +42,8 @@
       "static/chunks/webpack-b4405ac1b2b64b0f.js",
       "static/chunks/framework-a6e0b7e30f98059a.js",
       "static/chunks/main-1f0ca34dd432b418.js",
-      "static/chunks/344-ab1c4a3f0f53bb71.js",
-      "static/chunks/pages/public/citizens-e583a3c0483f1585.js"
+      "static/chunks/922-46e6040df7ea30be.js",
+      "static/chunks/pages/public/citizens-6e6150e115858ce2.js"
     ]
   },
   "ampFirstPages": []
